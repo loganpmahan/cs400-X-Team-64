@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 64 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -14,7 +14,8 @@ and missed deadlines.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+We will break up the tasks and set deadlines and check ins to make sure we are
+on pace to completing assignments on time.
 
 ## How will will communicate difficulties with a task assigned to us
 
