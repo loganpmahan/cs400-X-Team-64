@@ -12,11 +12,15 @@ and missed deadlines.
 
 We can either have our team leader assign tasks, or we can work together to 
 determine appropriate tasks for each group member so the workload is spread out.
+If a team member is having trouble with a piece of code, team members with a better
+understanding of the problem can provide extra support or switch tasks with the
+team member in need.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
 We will break up the tasks and set deadlines and check ins to make sure we are
-on pace to completing assignments on time.
+on pace to completing assignments on time. Using Git, keeping track of progress
+and just how much code is being completed will be available for all members to see.
 
 ## How will will communicate difficulties with a task assigned to us
 
