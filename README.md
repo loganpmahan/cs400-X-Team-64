@@ -3,7 +3,7 @@
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
    * What are the GitHub usernames of your team members?
-       * GitHub username 1: Logan Mahan
+       * GitHub username 1: loganpmahan
        * GitHub username 2: emmentch
        * GitHub username 3: Nareg Megan
        * GitHub username 4: danieldmiller
