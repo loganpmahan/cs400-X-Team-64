@@ -19,7 +19,7 @@ Pascal case will be used to name classes, i.e. "MyClass.java". Camel case will b
 
 ## Commenting style for public and private members of a class or interface:
 
-Inline comments will be used to clarify code that requires further explanation. JavaDoc block comments will be used to document both classes and methods. 
+Inline comments will be used to clarify code that requires further explanation (really important for communications). JavaDoc block comments will be used to document both classes and methods. 
 
 ### Examples
 
