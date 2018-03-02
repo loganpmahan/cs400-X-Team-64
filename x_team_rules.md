@@ -33,5 +33,8 @@ We will comunicate with the members of our group before deadlines are due
 to make sure that all memebers of the group are approaching a point that 
 will ensure the task's completion before the deadline.
 
+## How we will combine tasks and make sure everything can be linked up smoothly
 
+We will check at each other's codes before the final combination. So writing comments 
+that are self-explanatory is really important.
 
