@@ -7,7 +7,7 @@
        * GitHub username 2: emmentch
        * GitHub username 3: Nareg Megan
        * GitHub username 4: danieldmiller
-       * GitHub username 5:
+       * GitHub username 5: tmatsuzawa2
    * When did you complete this exercise? 2/28/18
    * How long did it take your team to complete this exercise? A couple of hours.
 
